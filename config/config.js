@@ -1,0 +1,1 @@
+module.exports.SEED = '@ñ1añdawñg4ñ"%"&1!adhñ5ña';
